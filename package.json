@@ -1,0 +1,7 @@
+{
+  "name": "uk-ceremonial-counties",
+  "version": "1.0.0",
+  "dependencies": {
+    "mapshaper": "^0.4.6"
+  }
+}
